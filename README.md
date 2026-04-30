@@ -1,3 +1,5 @@
+[![Claude Code Friendly](https://img.shields.io/badge/Claude_Code-Friendly-blueviolet?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
 # RXVM — Amazon Client-Side Bot Detection (Reverse Engineering POC)
 
 Reverse engineering of Amazon's RXVM bytecode virtual machine and its
